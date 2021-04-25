@@ -10,17 +10,17 @@ A full-stack, serverless web application framework that will allow you to build 
 - Webpack
 
 # Features
-Opinionated defaults for formatting, file organization, webpack, Babel, and more.
-Simple but powerful routing (all routes defined in one file) with dynamic (typed) parameters, constraints, and named route functions (to generate correct URLs).
-Automatic page-based code-splitting.
-Boilerplate-less GraphQL API construction.
-Cells: a declarative way to fetch data from the backend API.
-Generators for pages, layouts, cells, SDL, services, etc.
-Scaffold generator for CRUD operations around a specific DB table.
-Forms with easy client- and/or server-side validation and error handling.
-Hot module replacement (HMR) for faster development.
-Database migrations (via Prisma 2).
-First class JAMstack-style deployment to Netlify.
+- Opinionated defaults for formatting, file organization, webpack, Babel, and more.
+- Simple but powerful routing (all routes defined in one file) with dynamic (typed) parameters, constraints, and named route functions (to generate correct URLs).
+- Automatic page-based code-splitting.
+- Boilerplate-less GraphQL API construction.
+- Cells: a declarative way to fetch data from the backend API.
+- Generators for pages, layouts, cells, SDL, services, etc.
+- Scaffold generator for CRUD operations around a specific DB table.
+- Forms with easy client- and/or server-side validation and error handling.
+- Hot module replacement (HMR) for faster development.
+- Database migrations (via Prisma 2).
+- First class JAMstack-style deployment to Netlify.
 
 ## Getting Started
 
